@@ -68,5 +68,5 @@
       systemd:
         name: tomcat.service
         state: started
-        daemon_reload: yes
+        daemon-reload: yes
         enabled: yes
